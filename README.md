@@ -4,4 +4,4 @@ vscode 编写 auto.js、autox.js 时没有对于的语法提示进行代码补�
 
 ## 使用步骤
 
-下载工程后，将 `node_modules` 与 `tsconfig.json` 两个文件与文件夹拖入到开发项目中，代码提示即可生效。
+下载工程后，将 `node_modules` 与 `tsconfig.json` 两个文件与文件夹拖入到 `auto.js` 或 `autox.js` 开发项目中，代码提示即可生效。
